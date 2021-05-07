@@ -2,6 +2,8 @@
 
 In progress. 
 
+Chart will track and update the temperature of a given city over a period of time. 
+
 Built with React, Chart.js, GraphQL, & PostgreSQL
 
 ## env variables
