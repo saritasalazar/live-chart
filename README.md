@@ -7,7 +7,7 @@ Chart will track and update the temperature of a given city over a period of tim
 Built with React, Chart.js, GraphQL, & PostgreSQL
 
 ## env variables
-- You will need to set up a .env file in the root folder of your project and configure your REACT_APP_HASURA_PASS and REACT_APP_HASURA_URI.  
+- You will need to set up a .env file in the root folder of your project and configure your `REACT_APP_HASURA_PASS` and `REACT_APP_HASURA_URI`.  
 
 
 
